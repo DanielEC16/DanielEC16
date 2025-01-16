@@ -6,7 +6,6 @@
 
 ## Social Medias
 
-<img align="left" height="150" src="https://gifdb.com/images/thumbnail/classic-pacman-pixelated-icon-8suswgu61ehudg7t.gif"  />
 
 ## Github Stats
 
