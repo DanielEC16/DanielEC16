@@ -9,8 +9,7 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=DanielEC16&&show_icons=true&count_private=true&theme=github_dark">| 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DanielEC16&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEC16&layout=compact&theme=github_dark"/>|
 
