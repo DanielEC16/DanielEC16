@@ -34,6 +34,7 @@
 
 
 ## Tecnologias Web
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,astro,docker,react,php,bash,bootstrap,eclipse,idea,java,jenkins,jquery,laravel,md,mysql,nodejs,npm,spring,pnpm,postgres,postman,pug,react,svelte,ts,vite,vscode,yarn" />
