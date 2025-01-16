@@ -11,7 +11,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DanielEC16&&show_icons=true&count_private=true&theme=github_dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEC16&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEC16&layout=compact&theme=github_dark"/>
 </div>
 
 
