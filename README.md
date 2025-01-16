@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/839eeb1e-2162-44ab-a72e-165fcada7253)![Profile views](https://komarev.com/ghpvc/?username=DanielEC16&style=square&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=DanielEC16&style=square&color=blueviolet)
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 
@@ -59,5 +59,5 @@
   <img src="https://cdn.icon-icons.com/icons2/70/PNG/512/linkedin_14170.png" height="60px"/>
 </a>
 <a href="https://www.instagram.com/danielcairo695/">
-  <img src="https://www.instagram.com/danielcairo695/" height="60px"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" height="60px"/>
 </a>
