@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DanielEC16/DanielEC16/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
