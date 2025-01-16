@@ -3,10 +3,10 @@
 
 
 # 👨‍💻 Daniel Cairo | Desarrollador de Software  
-<img align="right" height="300px" src="https://gifdb.com/images/thumbnail/classic-pacman-pixelated-icon-8suswgu61ehudg7t.gif"  />
 
 🚀 **Apasionado por la tecnología, el desarrollo de software y la resolución de problemas complejos.**
 
+<img align="right" height="400px" src="https://gifdb.com/images/thumbnail/classic-pacman-pixelated-icon-8suswgu61ehudg7t.gif"  />
 
 <h3> 🔧 Habilidades: </h3>
 
@@ -15,6 +15,7 @@
 - Diseño y consumo de APIs REST.
 - Pruebas y desarrollo con herramientas como Postman.
 - Gestión de bases de datos relacionales.
+
 
 <h3>💡 Intereses:</h3>
 
@@ -33,17 +34,19 @@
 
 
 ## Tecnologias Web
-<br clear="both">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,astro,docker,react,php,bash,bootstrap,eclipse,idea,java,jenkins,jquery,laravel,md,mysql,nodejs,npm,pnpm,postgres,postman,pug,react,svelte,ts,vite,vscode,yarn" />
+  </a>
+</p>
 ## Herramientas
 
 
 ## Github Stats
-<br clear="both">
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DanielEC16&&show_icons=true&count_private=true&theme=github_dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEC16&layout=compact&theme=github_dark"/>
 </div>
 
 ## Social Medias
-<br clear="both">
 
